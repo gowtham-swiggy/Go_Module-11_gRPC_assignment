@@ -1,7 +1,5 @@
-# Go_Module-11_gRPC_assignment
+# gRPC API's (Assignment for GO MODULE 11 : gRPC Implementation)
 
-- Assignment for GO MODULE 11 : gRPC Implementation
-    
 - Create a Calculator Service which implements the following APIs:
 
 - 1. A Sum rpc which takes two numbers as input and returns the integer sum of those numbers.
